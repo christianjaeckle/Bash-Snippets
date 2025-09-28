@@ -1,3 +1,5 @@
+#!/bin/bash
+
 Script_FileName=$(basename "$0")
 Script_Path=dirname "$(realpath $0)"
 Script_LogDate=date +"%Y%m%d"
